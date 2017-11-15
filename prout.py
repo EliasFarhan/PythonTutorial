@@ -1,4 +1,5 @@
 
+
 class Prout:
     b = 2
 
@@ -30,6 +31,7 @@ def divide_by_2(elem):
 
 if __name__ == "__main__":
     p = Prout()
+
     p.a = 4
     if p.a == 4:
         pass
